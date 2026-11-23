@@ -39,10 +39,10 @@ export const techGroups = [
 
 export const academic = [
   {
-    title: 'Graduação em Seu Curso',
+    title: 'Ciência da Computação',
     place: 'UNICAP',
-    period: '2023 – atual',
-    text: 'Descreva disciplinas, destaques e atividades.',
+    period: '2024 – atual',
+    text: 'Gostei bastante da disciplina de métodos numéricos.',
   },
   {
     title: 'Iniciação Científica (PIBIC)',
