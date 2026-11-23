@@ -54,10 +54,10 @@ export const academic = [
 
 export const professional = [
   {
-    title: 'Seu cargo',
-    place: 'Empresa',
-    period: '2025 – atual',
-    text: 'Descreva suas responsabilidades e resultados.',
+    title: 'N/A',
+    place: 'N/A',
+    period: 'N/A',
+    text: 'N/A',
   },
 ];
 
